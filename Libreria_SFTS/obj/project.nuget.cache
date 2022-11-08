@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/JxoE19Ef7C1eLznAlnjDMc/u0Jpue+kZR+D30AoXN+g2mJ+q7QEZG3O0NgwLT7InwrmNgsJHz7/W5rKypDSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sergi\\Desktop\\Visual\\Libreria_SFTS\\Libreria_SFTS\\Libreria_SFTS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
